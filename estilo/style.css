@@ -13,6 +13,7 @@
   --cor3:   #2fa866;
   --cor4:   #1a5c37;
   --cor5:   #063d1e;
+  --cor6:   #037c1e;
 
   --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
   --fonte-destaque: "Bebas Neue", 'cursive';
@@ -94,7 +95,7 @@ main {
 
 main h1 {
     font-weight: normal;
-    color: var(--cor5);
+    color: var(--cor6);
     font-family: var(--fonte-android);
     font-size: 1.8em;
 }
@@ -117,7 +118,7 @@ main p {
 }
 
 main strong {
-    color: var(--cor4);
+    color: var(--cor6);
     font-weight: bold;
 }
 
